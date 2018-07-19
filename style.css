@@ -1,0 +1,24 @@
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8%;
+}
+
+h1 {
+	font-family: "Open Sans";
+	font-size: 13px;
+	font-style: normal;
+	padding-right: 120px;
+	padding-top: 12px;
+	text-align: right;
+	word-spacing: 30px;
+
+}
+
+.top-icon {
+	float: right;
+	width: 2.5%;
+	padding-right: 20px;
+	padding-top: 5px;
+}
